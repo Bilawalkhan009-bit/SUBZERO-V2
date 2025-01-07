@@ -1,9 +1,9 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
     ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ  ＭＤ ᐯ2
+    B I L A W A L T E C H ᐯ2
     
     ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
+     BILAWAL KHAN
      
     ⭐ ＭＹ ＴＥＡＭ
      ＸＥＲＯ ＣＯＤＥＲＳ
@@ -34,21 +34,21 @@ import dotenv from 'dotenv'
 //ＮＯＴＩＣＥ: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +263719647303
+global.botNumberCode = "" //Example: +923184269987
 global.confirmCode = "" 
 
 
-//--------❄️ＭＲ ＦＲＡＮＫ❄️----------
+//--------❄️BILAWAL TECH❄️----------
 
 
 //Change to false to use the Bot from the same number as the Bot.
 global.isBaileysFail = false
 
 
-//global.pairingNumber = "" //+254792105520
-global.mods = ['263719647303'] 
-global.prems = ['263719647303']
-global.allowed = ['263719647303']
+//global.pairingNumber = "" //+923184269987
+global.mods = ['923184269987'] 
+global.prems = ['923184269987']
+global.allowed = ['923184269987']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
